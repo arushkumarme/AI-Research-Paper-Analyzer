@@ -48,7 +48,7 @@ Sample questions:
 - How did the researchers do their study?
 - Can you sum up the key findings?
 
-Project Structure
+## Project Structure
 
 AI-Research-Paper-Analyzer
 │
@@ -57,6 +57,7 @@ AI-Research-Paper-Analyzer
 ├── utils/
 ├── data/
 └── README.md
+
 
 Coming Soon
 
